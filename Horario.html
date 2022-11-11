@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<!crear un horario>
+
+<html>
+<head>
+<style>
+table, th, td {
+    border:2px black;
+    text-align: center;
+    border-style:groove;
+
+    
+}
+.pr{
+    background-color: #ffcfad;
+    }
+
+.bd{
+    background-color: #ffe4b8;
+}
+.lm{
+    background-color:#e6d1b1 ;
+}
+.Fol{
+    background-color: #b8aa95;
+}
+.ed{
+    background-color: #efcaba;
+}
+.si{
+    background-color: #fffeea;
+}
+.h{
+    background-color: #acc59d;
+}
+
+th, td {
+    border: 1px black;
+    border-radius: 5px;
+    padding:5px;
+   border-style:hidden;
+}
+
+</style>
+</head>
+<body>
+    <table style="width: 100%">
+    <tr style="background-color: #ea8676">
+        <th style="width: 12%">Horas</th>
+        <th>Dilluns</th>
+        <th>Dimarts</th>
+        <th>Dimecres</th>
+        <th>Dijous</th>
+        <th>Divendres</th>
+    </tr>
+    <tr>
+        <th class="h">15:30-16:25</th>
+        <td class="bd">Bases de Datos</td>
+        <td class="ed"; rowspan="2">Entornos de Desarrollo</td>
+        <td class="bd"; rowspan="3">Bases de Datos</td>
+        <td class="bd"; rowspan="2">Bases de Datos</td>
+        <td class="Fol">FOL</td>
+    </tr>
+    <tr>
+        <th class="h">16:25-17:20</th>
+        <td class="pr"; rowspan="2">Programación</td>  
+        <td class="lm">Lenguajes de Marcas</td>
+    </tr>
+    <tr>
+        <th class="h">17:20-18:15</th>   
+        <td class="pr">Programación</td>
+        <td class="ed">Entornos de Desarrollo</td>
+        <td class="si">Sistemas Informáticos</td>
+    </tr>
+    
+    <tr>
+        <th class="h">18:15-18:45</th>
+        <th colspan="5">PATIO</th>     
+    </tr>
+    <tr>
+        <th class="h">18:45-19:40</th>
+        <td class="lm">Lenguaje de Marcas</td>
+        <td class="si"; rowspan="3">Sistemas Informáticos</td>
+        <td class="lm">Lenguaje de Marcas</td>
+        <td class="lm">Lenguaje de Marcas</td>
+        <td class="si">Sistemas Informáticos</td>
+    </tr>
+    <tr>
+        <th class="h">19:40-20:35</th>
+        <td class="Fol"; rowspan="2">FOL</td>     
+        <td class="pr"; rowspan="2">Programación</td>
+        <td class="pr"; rowspan="2">Programación</td>
+        <td class="bd"; rowspan="2">Bases de Datos</td>
+    </tr>
+    <tr>
+        <th class="h">20:35-21:30</th>
+    </tr>
+    
+    </table>
+</body>
+</html>
