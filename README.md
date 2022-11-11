@@ -1,12 +1,13 @@
 # Entornos
 ## Practica 1
+### PARTE A 
 En primer lugar crearemos un repositorio en nuestra cuenta de Github.
 ![image1](https://user-images.githubusercontent.com/114931679/201414455-fa226e28-433d-4600-97cd-d97882533729.png)<br>
 
 ![image2](https://user-images.githubusercontent.com/114931679/201414651-33b4f376-c9f3-4bc5-8813-86af7d703ee1.png)
 
 Una vez creado, abriremos *Git CMD* para empezar a escribir comandos.
-Entraremos a la dirección donde encontraremos la práctica a realizar, es decir la carpeta de git y dentro de documentos, usando el comando _**cd**_
+Entraremos a la dirección donde encontraremos la práctica a realizar, es decir la carpeta de git que está dentro de documentos, usando el comando _**cd**_
 
 ![image3](https://user-images.githubusercontent.com/114931679/201415303-97dfd872-97e3-48b2-be9c-a88f66e11f6f.png)
 
@@ -56,6 +57,9 @@ Y vuelvo a entrar para chequear que los cambios se han deshecho.
 ![image14](https://user-images.githubusercontent.com/114931679/201416955-2e3f7f9e-2fb2-46b1-832b-e2d5c64e678f.png)
 
 Se ha cambiado con éxito.
+
+### PARTE B
+
 
 
 
