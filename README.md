@@ -99,12 +99,15 @@ Ahora realizaremos la última comprobación para poder hacer los cambios que des
 y _**git checkout nombre-de-archivo**_ porque ya habiamos realizado el ADD.
 
 Añadimos una modificación dentro del documento:
+
 ![image23](https://user-images.githubusercontent.com/114931679/201424079-301a1f15-7e55-412c-90a6-43297b300a3e.png)
 
 Ejecuto los comandos mencionados.
+
 ![image24](https://user-images.githubusercontent.com/114931679/201424295-161f94ce-3343-4227-8c42-9280a0f52579.png)
 
 Y finalmente comprobamos que se realizan los cambios con éxito.
+
 ![image25](https://user-images.githubusercontent.com/114931679/201424398-fdeb6e1e-0ebc-4595-a4ad-f399e4d54207.png)
 
 
