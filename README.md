@@ -111,6 +111,9 @@ Y finalmente comprobamos que se realizan los cambios con éxito.
 ![image25](https://user-images.githubusercontent.com/114931679/201424398-fdeb6e1e-0ebc-4595-a4ad-f399e4d54207.png)
 
 
+## CAPTURAS DEL GITLAB
+![image](https://user-images.githubusercontent.com/114931679/208177228-e3220a6c-1eca-4c31-8616-454da66d4ca6.png)
+![image](https://user-images.githubusercontent.com/114931679/208177256-dc9cb5b2-01ef-4b46-a48c-3d13b040d2a7.png)
 
 
 
